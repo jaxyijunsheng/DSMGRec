@@ -1,2 +1,2 @@
 # DSMGRec
-The code will be available upon acceptance.
+The complete code will be available upon acceptance.
